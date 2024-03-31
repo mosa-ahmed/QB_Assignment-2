@@ -44,3 +44,4 @@ def removing_elements():
     except:
         print('Please check again!')
 
+removing_elements()
